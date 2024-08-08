@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.facebook"},{"l":"com.facebook.controller"},{"l":"com.facebook.dao"},{"l":"com.facebook.entity"},{"l":"com.facebook.service"},{"l":"com.facebook.view"}];updateSearchResults();
